@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your React project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/66fbdf2a-e432-4320-a85b-8165acad8e7f
+**URL**: https://github.com/ShaikMastha/Decentralized-Social-Media-MVP-Project-Specification
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use React**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/66fbdf2a-e432-4320-a85b-8165acad8e7f) and start prompting.
+Simply visit the [React Project](https://github.com/ShaikMastha/Decentralized-Social-Media-MVP-Project-Specification) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via React will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in React.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +62,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/66fbdf2a-e432-4320-a85b-8165acad8e7f) and click on Share -> Publish.
+Simply open [React](https://github.com/ShaikMastha/Decentralized-Social-Media-MVP-Project-Specification) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my React project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://github.com/ShaikMastha/Decentralized-Social-Media-MVP-Project-Specification)
