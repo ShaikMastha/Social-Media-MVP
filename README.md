@@ -1,4 +1,7 @@
+
 # Welcome to your React project
+
+![image alt](https://github.com/ShaikMastha/Social-Media-MVP/blob/1950a282e61b3b7ffdae1bd0ab9a8cce9e8bd6e5/Social%20media%20MVP.png)
 
 ## Project info
 
